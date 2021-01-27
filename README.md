@@ -1,4 +1,4 @@
-# Unlimint coding challenge
+# Coding challenge
 
 
 To build and Run:
